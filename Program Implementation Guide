@@ -28,3 +28,36 @@ This version:
 ✅ Maintains a technical yet accessible tone.
 ✅ Structures steps logically with visual separation for readability.
 ✅ Highlights key functionalities for user awareness.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Decryption Process
+Step 1: Launch the Decryption Program
+Execute the google colab notebook file text_steganography_using_GPT_2_decoding.ipynb to initiate the decryption process.
+
+Step 2: Input the Cover Text
+
+When prompted:
+Provide the steganographic text (cover text) containing the hidden message
+
+The program will automatically process the input to extract the concealed data
+
+Step 3: Retrieve the Secret Message
+
+The system will:
+
+Analyze the provided text
+
+Decode the embedded information
+
+Display the extracted secret message in its original form
+
+Key Features:
+
+Automated extraction process for seamless operation
+
+Preserves original message integrity
+
+No additional user input required beyond the initial cover text
+
+Note: Ensure the cover text remains unaltered from its original encoded form to guarantee successful decryption.
