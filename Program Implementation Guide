@@ -1,0 +1,30 @@
+Program Implementation Guide
+Step 1: Launch the Program
+Execute the provided Jupyter notebook file (text_steganography_using_GPT_2.ipynb). Upon running, the program will prompt you to:
+
+Enter the secret message you wish to conceal.
+
+Automatically compress the input using the Huffman coding algorithm.
+
+Display the compressed binary output, representing the encoded version of your secret text.
+
+Step 2: Provide Seed Text
+Next, the program will request a seed text—a starting phrase or context to guide the AI in generating a natural-looking cover text. This ensures the output blends seamlessly with ordinary content.
+
+Step 3: Retrieve and Share the Steganographic Output
+Once processing completes, the program will generate and display the steganographic text—a seemingly innocuous passage containing your hidden data. You may then securely transmit this text to the intended recipient.
+
+Key Features
+Efficient Compression: Huffman coding minimizes the binary footprint of your secret message.
+
+AI-Powered Concealment: GPT-2 generates contextually coherent cover text to evade detection.
+
+User-Friendly Workflow: Clear prompts guide you through each step.
+
+For additional details on decryption or advanced usage, consult the full documentation.
+
+This version:
+✅ Uses concise, action-driven language for clarity.
+✅ Maintains a technical yet accessible tone.
+✅ Structures steps logically with visual separation for readability.
+✅ Highlights key functionalities for user awareness.
